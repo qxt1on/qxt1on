@@ -19,6 +19,11 @@ I also explore game mechanics, event systems, and performance optimization to br
 - 🎨 **Game UI Framework** – Smooth and responsive in-game menus  
 
 
+## 📫 Connect With Me
+- 🌐 GitHub: [@qxt1on](https://github.com/qxt1on)  
+- 💬 Discord: **qxt1on**
+
+
 ## Example: Module Usage (Safe snippet)
 ```lua
 -- Example: requireable module pattern (safe, non-exploitative)
@@ -34,11 +39,9 @@ function Inventory:addItem(itemId, qty)
   qty = qty or 1
   self.items[itemId] = (self.items[itemId] or 0) + qty
 end
+
 function Inventory:getCount(itemId)
   return self.items[itemId] or 0
-end```
+end
 
-
-## 📫 Connect With Me
-- 🌐 GitHub: [@qxt1on](https://github.com/qxt1on)  
-- 💬 Discord: **qxt1on**
+return Inventory

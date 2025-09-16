@@ -34,14 +34,11 @@ function Inventory:addItem(itemId, qty)
   qty = qty or 1
   self.items[itemId] = (self.items[itemId] or 0) + qty
 end
-
 function Inventory:getCount(itemId)
   return self.items[itemId] or 0
-end
-
-return Inventory
+end```
 
 
 ## 📫 Connect With Me
 - 🌐 GitHub: [@qxt1on](https://github.com/qxt1on)  
-- 💬 Discord: **qxt1on**  
+- 💬 Discord: **qxt1on**

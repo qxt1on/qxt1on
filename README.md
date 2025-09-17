@@ -6,17 +6,8 @@ Welcome to my GitHub profile! I’m passionate about building fun, interactive, 
 I also explore game mechanics, event systems, and performance optimization to bring ideas to life.  
 
 
-## 🚀 Skills & Tools
-- 🟢 **Roblox Studio** – Game building & environment design  
-- 🟢 **Lua Scripting** – Gameplay mechanics, automation & systems  
-- 🟢 **UI/UX in Roblox** – Player-friendly interfaces & menus  
-- 🟢 **GitHub** – Version control & open-source collaboration  
-
-
-## 📌 Featured Projects
-- 🔨 **Custom Event System** – A Roblox event inspired by Adopt Me’s mechanics  
-- ⚡ **Auto Swing Tool** – Scripted farming/automation systems  
-- 🎨 **Game UI Framework** – Smooth and responsive in-game menus  
+## About me
+I born in 04/22/09 i may not be the best script developer. but I'm trying my best.
 
 
 ## 📫 Connect With Me

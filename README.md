@@ -7,7 +7,8 @@ I also explore game mechanics, event systems, and performance optimization to br
 
 
 ## About me
-I born in 04/22/09 i may not be the best script developer. but I'm trying my best.
+born in 04/22/09 
+i may not be the best script developer. but I'm trying my best.
 
 
 ## 📫 Connect With Me
